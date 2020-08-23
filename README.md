@@ -1,7 +1,7 @@
 # spamming-my-friends
 
 msg="*your word*"
-count=10
+count=1000
 msgcount=0
 
 
