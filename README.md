@@ -6,6 +6,6 @@ msgcount=0
 
 
 while msgcount < count:
-    msg=" "+msg
+    msg=""+msg
     print (msg)
     msgcount=msgcount+1
