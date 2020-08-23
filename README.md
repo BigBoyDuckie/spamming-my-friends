@@ -1,6 +1,6 @@
 # spamming-my-friends
 
-msg="oh no its the rona"
+msg="*your word*"
 count=10
 msgcount=0
 
